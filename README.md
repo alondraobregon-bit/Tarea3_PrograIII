@@ -1,4 +1,4 @@
 # Tarea3_PrograIII
-#Alondra Obregon
 
-#Abigail Cabanillas
+- Alondra Obregon
+- Abigail Cabanillas
